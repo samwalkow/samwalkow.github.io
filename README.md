@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Testing: https://redcap.healthinstitute.illinois.edu/surveys/?s=K9TFMJNEC8
+Testing: <a href="https://redcap.healthinstitute.illinois.edu/surveys/?s=K9TFMJNEC8">Click here to take the survey</a>
 
 You can use the [editor on GitHub](https://github.com/samwalkow/samwalkow.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
