@@ -38,4 +38,4 @@ I'm a
 
 ## My CV
 
-![My CV](https://github.com/samwalkow/samwalkow.github.io/blob/master/CV_SamWalkow.pdf)
+[My CV](https://github.com/samwalkow/samwalkow.github.io/blob/master/CV_SamWalkow.pdf)
